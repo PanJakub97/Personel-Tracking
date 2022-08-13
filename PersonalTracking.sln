@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking\PersonalTracking.csproj", "{091FF0A6-967D-4324-BB06-FAD1330FA40F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{615D7A8F-4373-48B2-B91A-2DC46B93B499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BDE5DF4A-C5BF-4B7E-AEC1-606F91B796D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091FF0A6-967D-4324-BB06-FAD1330FA40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091FF0A6-967D-4324-BB06-FAD1330FA40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091FF0A6-967D-4324-BB06-FAD1330FA40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091FF0A6-967D-4324-BB06-FAD1330FA40F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615D7A8F-4373-48B2-B91A-2DC46B93B499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615D7A8F-4373-48B2-B91A-2DC46B93B499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615D7A8F-4373-48B2-B91A-2DC46B93B499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615D7A8F-4373-48B2-B91A-2DC46B93B499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE5DF4A-C5BF-4B7E-AEC1-606F91B796D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE5DF4A-C5BF-4B7E-AEC1-606F91B796D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE5DF4A-C5BF-4B7E-AEC1-606F91B796D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE5DF4A-C5BF-4B7E-AEC1-606F91B796D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98504403-5E71-4221-B873-5838C917AAB7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\Kodowanie\033_PROJECT\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\Kodowanie\033_PROJECT _backup\PersonalTracking\PersonalTracking\DAL\obj\Debug\DAL.pdb
